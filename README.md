@@ -1,6 +1,6 @@
 ### Assignment 2: Analyzing large datasets with Spark.
 
-* This assignment is due on 11/8/2021. Your assignment will be automatically pulled from the GitHub account it was cloned to.
+* This assignment is due on 11/8/2021. Your assignment will be automatically pulled from the GitHub account it was cloned to at 11:59 PM. GitHub Classroom will show the correct date but may show a different time.
 
 Please follow the instruction below to clone the assignment into your GitHub account. If you don’t already have a GitHub account, you will need to create one first. Navigate to the GitHub assignment page located at the following URL:
 
